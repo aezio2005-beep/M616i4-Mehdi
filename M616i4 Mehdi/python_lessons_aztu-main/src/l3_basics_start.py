@@ -56,7 +56,7 @@ print("=== Kərpic 6 ===")   # Lüğət (dict)
 row={"soda":["Coca-Cola","Pepsi","Fanta"],"Fast Food":["pizza","pasta"]}
 print(row["soda"])
 print(row["Fast Food"])
-row["dairy products"] = ["", ""]
+row["dairy products"] = ["Milk", "Bread"]
 print(row)
 print("=== Kərpic 7 ===")   # Dövr (for) və şərt (if / else)
 # TODO: zəif ölçmələri saymaq
